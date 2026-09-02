@@ -86,7 +86,7 @@ docker compose up --build
 ```
 
 Access services:
-* 🌐 **Dashboard UI**: [https://revive-revenue-intelligence-value-engine-t3rh-mbz5lp76y.vercel.app/judge-mode)
+* 🌐 **Dashboard UI**: [https://revive-revenue-intelligence-value-engine-t3rh-mbz5lp76y.vercel.app/dashboard)
 * ⚙️ **FastAPI Swagger Docs**: [http://localhost:8000/docs](http://localhost:8000/docs)
 * 🔍 **API Health Check**: [http://localhost:8000/health](http://localhost:8000/health)
 
